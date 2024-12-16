@@ -1,0 +1,21 @@
+/home/mastilia/Lab05
+log
+  File: filename
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 811h/2065d	Inode: 302989      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1199/mastilia)   Gid: ( 1201/mastilia)
+Access: 2024-12-16 11:27:23.604809756 +0200
+Modify: 2024-12-16 11:27:23.604809756 +0200
+Change: 2024-12-16 11:27:23.604809756 +0200
+ Birth: -
+cp: cannot stat 'source.txt': No such file or directory
+luigi mangione
+luigi mangione
+luigi mangione
+luigi mangione
+new_folder/
+new_folder/
+tar: Cowardly refusing to create an empty archive
+Try 'tar --help' or 'tar --usage' for more information.
+new_folder/
+new_folder/
